@@ -1,0 +1,5 @@
+n1=(float(input('diga o primeiro numero:')))
+n2=(float(input('diga o segundo numero:')))
+n3=(float(input('diga o terceiro numero:')))
+print('a soma dos valores informados é', n1+n2+n3)
+input('.')
